@@ -1,0 +1,36 @@
+h1{
+    color:red
+}
+
+.header{
+    display : flex;
+    justify-content : space-between
+}
+
+img{
+    border : 2px black solid;
+    border-radius : 15px
+}
+
+
+.animals{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content : space-evenly
+}
+
+.animals img{
+    border : 2px solid black;
+    border-radius: 50px
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: peachpuff
+    /*width : 310px;
+    font-family : fantasy*/
+}
+
+p,h3{
+    text-align: center;
+}
